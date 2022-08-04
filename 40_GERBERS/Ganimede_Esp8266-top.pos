@@ -1,0 +1,39 @@
+### Module positions - created on Thu Aug  4 18:09:54 2022 ###
+### Printed by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                   PosX       PosY       Rot  Side
+C1        100nF            C_0402_1005Metric                     129.4384  -106.8324  -90.0000  top
+C2        1uF              C_0402_1005Metric                     136.5250  -113.5380  -90.0000  top
+C3        470pF            C_0402_1005Metric                     136.5504  -111.3536  -90.0000  top
+C4        10uF             C_0402_1005Metric                     131.3688  -111.2012  -90.0000  top
+C5        12pF             C_0402_1005Metric                     152.1460  -111.9124   90.0000  top
+C6        12pF             C_0402_1005Metric                     157.8356  -112.0648  -90.0000  top
+C7        10uF             C_0402_1005Metric                     160.6296   -99.2124   90.0000  top
+C8        100nF            C_0402_1005Metric                     159.4104   -99.2124   90.0000  top
+C9        100nF            C_0402_1005Metric                     159.9692   -96.7740    0.0000  top
+CN1       USB_C            USB_C_Receptacle_HRO_TYPE-C-31-M-12   144.7800  -129.5400    0.0000  top
+LD1       Pwr              LED_0603_1608Metric                   136.3980  -127.7620   90.0000  top
+LD2       User             LED_0603_1608Metric                   153.4160  -127.7620   90.0000  top
+R1        5k1              R_0402_1005Metric                     141.2240  -119.8880  180.0000  top
+R2        5k1              R_0402_1005Metric                     141.2240  -121.1580  180.0000  top
+R3        10k              R_0402_1005Metric                     139.1158   -65.5848   90.0000  top
+R4        10k              R_0402_1005Metric                     140.3350   -65.5848   90.0000  top
+R5        10k              R_0402_1005Metric                     129.4384   -96.8248   90.0000  top
+R6        10k              R_0402_1005Metric                     150.5712   -70.0532  180.0000  top
+R7        220k             R_0402_1005Metric                     150.6728   -75.0824  180.0000  top
+R8        100k             R_0402_1005Metric                     150.6728   -73.9140    0.0000  top
+R9        1k               R_0402_1005Metric                     134.8740  -128.0160   90.0000  top
+R10       470              R_0402_1005Metric                     150.6220   -94.2848  180.0000  top
+R11       470              R_0402_1005Metric                     150.6220   -92.3036  180.0000  top
+R12       10k              R_0402_1005Metric                     150.7744  -118.4148  -90.0000  top
+R13       10k              R_0402_1005Metric                     138.6840  -118.3640  -90.0000  top
+R14       1k               R_0402_1005Metric                     154.9400  -128.2700   90.0000  top
+R15       10k              R_0402_1005Metric                     160.4518   -93.5736  180.0000  top
+SW1       Flash            SW_Push_1P1T_NO_6x6mm_H9.5mm          156.8450  -121.1580  180.0000  top
+SW2       Reset            SW_Push_1P1T_NO_6x6mm_H9.5mm          132.7150  -121.1580  180.0000  top
+U1        ESP-12F          ESP-12E                               139.7000   -95.8160    0.0000  top
+U2        SPX3819M5-L-3-3  SOT-23-5                              133.9088  -112.3696   90.0000  top
+U3        CH340G           SOIC-16_3.9x9.9mm_P1.27mm             154.9400  -104.1400    0.0000  top
+Y1        Crystal          Crystal_SMD_3225-4Pin_3.2x2.5mm       155.0416  -111.9124    0.0000  top
+## End

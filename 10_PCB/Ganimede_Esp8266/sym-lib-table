@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Mikrobus")(type "Legacy")(uri "D:/20_Local_Data/SynologyDrive/10_Development/10_General/30_Libraries/10_Kicad/30_3rdParty/kicad-mikroBUS-master/library/mikroBUS.lib")(options "")(descr ""))
+)
