@@ -15,7 +15,7 @@ So, in the end, Ganimede is a development board with the following characteristi
 6. It's really simple to use.
 
 # Ganimede.E12
-Ganimede.E12 is the versione based on ESP8266 (more specifically on the ESP-12 module by AI-Thinker). The hardware details of Ganimede.E12 are resumed in the picture below:
+Ganimede.E12 is the version based on ESP8266 (more specifically on the ESP-12 module by AI-Thinker). The hardware details of Ganimede.E12 are resumed in the picture below:
 
 ![HwDetails](https://static.wixstatic.com/media/2492ae_2b2e0d6cc230491f92e3bd0d91141a82~mv2.png/v1/fill/w_1467,h_647,al_c/2492ae_2b2e0d6cc230491f92e3bd0d91141a82~mv2.png)
 
@@ -34,11 +34,11 @@ Ganimede.E12 is the versione based on ESP8266 (more specifically on the ESP-12 m
 If you want more information you can have a look at the [Ganimede.E12 Datasheet](https://2492ae4f-d323-49c0-bc1e-8d5936f83a9d.usrfiles.com/ugd/2492ae_11933c1aee514b55b51fd540d7772119.pdf) and to the [Ganimede.E12 Product Page](https://frafich.wixsite.com/jupitersystem/product-page/ganimede-e12).
 
 # Ganimede.E12 HW project
-This repo contains the full HW project of Ganimede.E12, with the traditional file structure i use on my HW projects, and more specifically:
+This repo contains the full HW project of Ganimede.E12, with the traditional file structure I use on my HW projects, and more specifically:
 - 10_PCB: contains the Kicad 6.x project of the board. The **jlcpcb** folder contains all the files needed for making the board using JLCPCB service.
-- 20_SCH: contains the board's schematic in PDF
-- 30_BOMS: contains the fancy iBOM (made using the iBOM plugin by [https://github.com/openscopeproject](https://github.com/openscopeproject)) and a more traditional BOM file
-- 40_GERBERS: contains Gerber and Centronic files. These files allow you to make your own board by yourself or using traditional PCB/Manufacturing services (e.g. PcbWay)
-- 50_3D: a 3D view of the board.
-- 60_LIB: some additional 3D files (mostly step) I needed for making the board's 3D.
+- 20_SCH: contains the board's schematic in PDF.
+- 30_BOMS: contains a fancy iBOM (made using the iBOM plugin by [https://github.com/openscopeproject](https://github.com/openscopeproject)) and a more traditional BOM file.
+- 40_GERBERS: contains Gerber and Centronic files. These files allow you to make your own board by yourself or using traditional PCB/Manufacturing services (e.g. PcbWay).
+- 50_3D: contains a 3D view of the board.
+- 60_LIB: contains some additional 3D files (mostly step) I needed for making the board's 3D.
 
